@@ -11,9 +11,9 @@ class NotFoundPage extends React.Component {
           width="560"
           height="315"
           src="https://www.youtube.com/embed/6IJB0aD8gSA"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowFullscreen
+          allowFullScreen
         />
         <p>Too doo doo doo doo doo doo doo</p>
       </Layout>
